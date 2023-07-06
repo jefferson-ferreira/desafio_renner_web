@@ -1,4 +1,4 @@
-package br.com.lojasrenner.pages.customer;
+package br.com.lojasrenner.pages.e_commerce;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
